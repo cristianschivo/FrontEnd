@@ -1,3 +1,2 @@
 # FrontEnd
-Este readme lo cree desde github, ahora ver como sincronizarlo
-Modificado
+18/11 empecé el programa 5 de ProgramaTK en youtube
